@@ -3,8 +3,8 @@
     {
       "id": 5928101,
       "user": {
-        "id": "abc123",
-        "name": "Adam"
+      "id": "abc123",
+      "name": "Adam"
       },
       "category": "animal welfare",
       "organizer": "Adam",
@@ -43,6 +43,24 @@
       "location": "Puptown ",
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 1400635,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Jaman",
+      "description": "Its demo",
+      "location": "KL",
+      "date": "2019-10-09T06:55:00.000Z",
+      "time": "4:00",
       "attendees": []
     }
   ]
